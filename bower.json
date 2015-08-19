@@ -14,6 +14,6 @@
     "qunit": "~1.18.0"
   },
   "devDependencies": {
-    "pickadate": "calvinlough/pickadate.js"
+    "pickadate": "baminteractive/pickadate.js"
   }
 }
