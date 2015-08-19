@@ -14,6 +14,6 @@
     "qunit": "~1.18.0"
   },
   "devDependencies": {
-    "pickadate": "AddJam/pickadate.js#cd23958028a62035bd684b9368eca4444805563d"
+    "pickadate": "~3.5.6"
   }
 }
