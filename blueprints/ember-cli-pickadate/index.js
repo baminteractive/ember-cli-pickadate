@@ -6,6 +6,6 @@ module.exports = {
   },
 
   afterInstall: function(options) {
-    return this.addBowerPackageToProject('pickadate');
+    return this.addBowerPackageToProject('pickadate', 'baminteractive/pickadate.js');
   }
 };
